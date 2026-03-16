@@ -1,0 +1,243 @@
+#LyX 2.4 created this file. For more info see https://www.lyx.org/
+\lyxformat 620
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children no
+\language american
+\language_package default
+\inputencoding utf8
+\fontencoding auto
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_roman_osf false
+\font_sans_osf false
+\font_typewriter_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement class
+\float_alignment class
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\use_formatted_ref 0
+\use_minted 0
+\use_lineno 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1in
+\topmargin 1in
+\rightmargin 1in
+\bottommargin 1in
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tablestyle default
+\tracking_changes false
+\output_changes false
+\change_bars false
+\postpone_fragile_content true
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\docbook_table_output 0
+\docbook_mathml_prefix 1
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Welcome to soundLab!
+\begin_inset Newline newline
+\end_inset
+
+Spring 2026 Weekend Session
+\end_layout
+
+\begin_layout Standard
+Thank you so much for joining us for our March 21-22 soundLab session.
+ This document will help get you started,
+ so you know where to go and what's happening.
+ If you have any questions,
+ please do not hesitate to contact us at millerp3@duq.edu or mcmasterm@duq.edu.
+\end_layout
+
+\begin_layout Section
+Locations,
+ Entrances,
+ Times
+\end_layout
+
+\begin_layout Description
+Dates
+\begin_inset space ~
+\end_inset
+
+and
+\begin_inset space ~
+\end_inset
+
+times Saturday,
+ 21 March 2026 from 9:00am to 4:00pm and Sunday,
+ 22 March from noon to 4:00p.m.
+\end_layout
+
+\begin_layout Description
+Location Physics Labs,
+ 2nd Floor,
+ Fischer Hall.
+ You can find a campus map at:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.duq.edu/campus-map.php"
+target "https://www.duq.edu/campus-map.php"
+literal "false"
+
+\end_inset
+
+.
+ Once you are inside Fischer Hall,
+ you can take an elevator to the 2nd floor.
+ The best place to enter the building is probably from the Fischer Skywalk which goes over Forbes Avenue.
+ You can enter the Skywalk from McAnulty Drive.
+ Students can be dropped off at the Student Union and walk down the hill past the Gumberg Library.
+ There will be signage in Fischer Hall directing you to the labs.
+ We may also use space in the Mary Pappert School of Music,
+ but our main location is Fischer Hall.
+\end_layout
+
+\begin_layout Description
+Lunch We will provide free lunch to paid registrants on Saturday,
+ 21 March.
+ This will be at Duquesne's Towers cafeteria.
+ We will all walk over across campus together as a group and eat lunch together.
+ This is a buffet-style 
+\begin_inset Quotes eld
+\end_inset
+
+all you can eat
+\begin_inset Quotes erd
+\end_inset
+
+ situation.
+ There are many options here for those with special dietary needs,
+ but if you are unsure please contact one of us.
+\end_layout
+
+\begin_layout Description
+Equipment If you have a laptop computer,
+ please bring it.
+ If you do not,
+ we will provide a basic laptop for you!
+ Apart from that,
+ we will give each student a goodie bag with all the hardware they need,
+ which does not need to be returned.
+ Additional hardware is available as needed.
+\end_layout
+
+\begin_layout Description
+Teachers Dr.
+ McMaster and Dr.
+ Miller will be the lead teachers.
+ There will be a teaching assistant to help.
+ We will be joined by Dr.
+ Burton Hable (University of Wisconsin-Madison) who will be observing (but not conducting any research).
+ Dr.
+ Hable is an expert in education theory.
+\end_layout
+
+\begin_layout Description
+WiFi We should have guest WiFi passes for all students.
+ The WiFi network is free and is called Duq-Guest.
+\end_layout
+
+\begin_layout Description
+Behavior We expect all students to be respectful of others,
+ particularly as not everyone may be at the same level.
+ This is normal.
+ If any student feels as though things are going too quickly or slowly,
+ please speak up and we will gladly assist!
+\end_layout
+
+\begin_layout Description
+Final
+\begin_inset space ~
+\end_inset
+
+Event We have engaged Mr.
+ Joseph Pailo Haley to perform and speak on Sunday,
+ 22 March from 3:00 – 4:00pm in room 322 at the Mary Pappert School of Music.
+ Mr.
+ Pailo is an Ableton Certified Trainer who has worked extensively with some of the top companies in the electronic music industry in Los Angeles CA,
+ Austin TX and Pittsburgh.
+ Parents and guests are welcome to attend.
+ Mr.
+ Pailo will allow students to try out some of his gear afterwards.
+ You can read more about him at:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "https://www.ableton.com/en/certified-training/joseph-pailo-haley/"
+target "https://www.ableton.com/en/certified-training/joseph-pailo-haley/"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
