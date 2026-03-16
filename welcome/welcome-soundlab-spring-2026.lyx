@@ -107,12 +107,6 @@ Thank you so much for joining us during our March 21-22 soundLab session.
  please do not hesitate to contact us at millerp3@duq.edu or mcmasterm@duq.edu.
 \end_layout
 
-\begin_layout Section
-Locations,
- Entrances,
- Times
-\end_layout
-
 \begin_layout Description
 Dates
 \begin_inset space ~
@@ -301,6 +295,25 @@ Emergency In case of emergency,
 \begin_layout Standard
 Thank you so much for joining us!
  We are looking forward to meeting you and working together.
+\end_layout
+
+\begin_layout Standard
+\align block
+\begin_inset Graphics
+	filename /Users/millerp3/Desktop/signature.png
+	lyxscale 20
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align block
+Dr.
+ Paul V.
+ Miller
 \end_layout
 
 \end_body
