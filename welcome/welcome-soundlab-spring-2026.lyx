@@ -145,12 +145,15 @@ literal "false"
 
 \end_inset
 
-.
- Once you are inside Fischer Hall,
+
+\begin_inset Newline newline
+\end_inset
+
+Once you are inside Fischer Hall,
  you can take an elevator to the 2nd floor.
  The best place to enter the building is probably from the Fischer Skywalk which goes over Forbes Avenue.
  You can enter the Skywalk from McAnulty Drive.
- Students can be dropped off at the Student Union and walk down the hill past the Gumberg Library.
+ Students can be dropped off at the Student Union and walk down the hill with the Gumberg Library on the right.
  There will be signage in Fischer Hall directing you to the labs.
  We may also use space in the Mary Pappert School of Music,
  but our main location is Fischer Hall.
@@ -160,8 +163,8 @@ literal "false"
 Lunch We will provide free lunch to paid registrants on Saturday,
  21 March.
  This will be at Duquesne's Towers cafeteria.
- We will all walk over across campus together as a group and eat lunch together.
- This is a buffet-style 
+ We will all walk over across campus together as a group and eat lunch in the faculty/staff dining room.
+ Towers is a buffet-style 
 \begin_inset Quotes eld
 \end_inset
 
@@ -171,18 +174,65 @@ all you can eat
 
  situation.
  There are many options here for those with special dietary needs,
- but if you are unsure please contact one of us.
+ but if you are unsure please contact one of us and we will do our very best to accommodate you.
 \end_layout
 
 \begin_layout Description
 Equipment If you have a laptop computer,
  please bring it.
  If you do not,
- we will provide a basic laptop for you!
- Apart from that,
- we will give each student a goodie bag with all the hardware they need,
- which does not need to be returned.
- Additional hardware is available as needed.
+ that is perfectly fine:
+ we will provide one for you to use during the workshop.
+ Although these school laptops can be used at Duquesne,
+ we kindly ask that they not be taken off campus.
+\begin_inset Newline newline
+\end_inset
+
+We will give each registered student a goodie bag with all the hardware they require.
+ This does not need to be returned.
+ If necessary,
+ additional hardware and electronics components are available.
+\end_layout
+
+\begin_layout Description
+Online
+\begin_inset space ~
+\end_inset
+
+Resources The unofficial web site for the soundLab can be found here:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "https://sl.theoryofpaul.net/index.phtml"
+target "https://sl.theoryofpaul.net/index.phtml"
+literal "false"
+
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+Additional resources are at github.
+ If you are unfamiliar with github,
+ that's fine – we'll talk about it during the workshop.
+ You can poke around here:
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset CommandInset href
+LatexCommand href
+name "https://github.com/lauprellim/soundLab"
+target "https://github.com/lauprellim/soundLab"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -197,15 +247,15 @@ Teachers Dr.
 \end_layout
 
 \begin_layout Description
-WiFi We should have guest WiFi passes for all students.
- The WiFi network is free and is called Duq-Guest.
+WiFi We will provide guest WiFi passes for all students.
+ WiFi usage is free.
 \end_layout
 
 \begin_layout Description
-Behavior We expect all students to be respectful of others,
- particularly as not everyone may be at the same level.
- This is normal.
- If any student feels as though things are going too quickly or slowly,
+Behavior We expect all students to be respectful of others.
+ Not everyone may come into this workshop at the same level,
+ but this is normal.
+ If anyone feels as though things are going too quickly or slowly,
  please speak up and we will gladly assist!
 \end_layout
 
@@ -220,7 +270,7 @@ Event We have engaged Mr.
  Mr.
  Pailo is an Ableton Certified Trainer who has worked extensively with some of the top companies in the electronic music industry in Los Angeles CA,
  Austin TX and Pittsburgh.
- Parents and guests are welcome to attend.
+ Parents and guests are welcome to attend!
  Mr.
  Pailo will allow students to try out some of his gear afterwards.
  You can read more about him at:
@@ -237,6 +287,19 @@ literal "false"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Description
+Emergency In case of emergency,
+ please send a text message on Dr.
+ Miller's cell phone:
+ 585-451-0575.
+ Please kindly do not share this number outside of the workshop community.
+\end_layout
+
+\begin_layout Standard
+Thank you so much for joining us!
+ We are looking forward to meeting you and working together.
 \end_layout
 
 \end_body
