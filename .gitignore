@@ -8,3 +8,5 @@ __pycache__/
 # temporary files
 *~
 *.tmp
+*.lyx~
+#*#
