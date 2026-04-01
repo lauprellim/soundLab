@@ -109,17 +109,19 @@ Paul Miller and Michael McMaster
 \end_layout
 
 \begin_layout Abstract
-The soundLab program is...
+Anyone who can make a slice of toast can attend a soundLab workshop.
+ At soundLab,
+ we teach people how to make electronic music and sound using low-cost hardware and free open-source software.
+ Students leave with all the parts they need to continue their work at home.
+ They find an open,
+ welcoming community of learners where making mistakes is part of the process of action,
+ observation and extension.
 \end_layout
 
 \begin_layout Abstract
 This document provides a method for guided exploration...assume competence,
  invite observation,
  encourage agency.
-\end_layout
-
-\begin_layout Abstract
-ACTION -> OBSERVATION -> EXTENSION
 \end_layout
 
 \begin_layout Abstract
@@ -320,6 +322,18 @@ Introduction to PD (Pure Data)
 
 \begin_layout Subsubsection
 Downloading PD and installing it
+\end_layout
+
+\begin_layout Standard
+Download and install PD.
+ Be sure you know what path you are using (in fact that is the main challenge).
+ Audio interface also something we need to check.
+ Learning difference between messages,
+ numbers,
+ symbols,
+ objects,
+ and audio signals,
+ etc.
 \end_layout
 
 \begin_layout Subsubsection
