@@ -108,12 +108,24 @@ soundLab:
 Paul Miller and Michael McMaster
 \end_layout
 
+\begin_layout Abstract
+The soundLab program is...
+\end_layout
+
 \begin_layout Section
 First Day 
 \end_layout
 
 \begin_layout Subsection
-Introduction to DIY electronics and electronic music
+Introduction to DIY electronics and electronic music - 15 minutes
+\end_layout
+
+\begin_layout Standard
+This is just a very general walk-through of what electronic music is.
+ We should have a slide show and a link to my server where there is a listening list,
+ possibly as a zip file.
+ Emphasis on the fact that electronic music performers,
+ composers and innovators come from all corners of life – women and minorities all played very significant roles.
 \end_layout
 
 \begin_layout Subsection
@@ -125,23 +137,106 @@ Downloading and installing CircuitPython
 \end_layout
 
 \begin_layout Standard
-The UF2...
+Download and flash the UF2 file.
+ Download and install Thonny IDE and verify that it can access the Pico.
+\end_layout
+
+\begin_layout Itemize
+Download CircuitPython:
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://circuitpython.org/downloads"
+target "https://circuitpython.org/downloads"
+literal "false"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Download Thonny:
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://thonny.org/"
+target "https://thonny.org/"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
 Read button state
 \end_layout
 
+\begin_layout Standard
+The objective is simple to print a 1 in the REPL if a button is pressed.
+\end_layout
+
 \begin_layout Subsubsection
 Control onboard LED
+\end_layout
+
+\begin_layout Standard
+Use the button to turn on the onboard LED.
+ Explain difference between momentary switch and latch switch.
+ Possibly explain debouncing behavior of buttons.
+ Use 
+\family typewriter
+adafruit_debouncer
+\family default
+ library to debounce,
+ instead of writing our own code.
+ Learnhow to deal with external libraries (where does the .mpy file go on the Pico?) Introduce pinout diagram for the Raspberry Pi Pico.
+\end_layout
+
+\begin_layout Itemize
+CircuitPython Libraries:
+ 
+\begin_inset CommandInset href
+LatexCommand href
+name "https://circuitpython.org/libraries"
+target "https://circuitpython.org/libraries"
+literal "false"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
 Turn on external LED with a button
 \end_layout
 
+\begin_layout Standard
+Now use the button to turn on or off an external LED using one of the GPIO pins.
+ This combines button and LED behavior but is more complex because we need a GPIO pin that functions as input,
+ and a second pin for output.
+\end_layout
+
 \begin_layout Subsubsection
 Setting up the HCSR04 distance sensor
+\end_layout
+
+\begin_layout Standard
+There are four pins on the HCSR04:
+ VCC,
+ GND,
+ TRIG and ECHO.
+ Explain what these all do.
+ Use 
+\family typewriter
+adafruit_hcsr04
+\family default
+ library.
+ The objective is to print distance information on the REPL at a time interval.
+ Students can adjust the interval (0.5 secs,
+ 2 secs.,
+ etc.) What are the advantages and disadvantages of different reporting intervals?
 \end_layout
 
 \begin_layout Subsection
@@ -202,7 +297,7 @@ Testing with HCSR04 data
 \end_layout
 
 \begin_layout Subsection
-Making the sequencer respond to distance
+Making the sequencer respond to distance (1 data variable)
 \end_layout
 
 \begin_layout Subsubsection
@@ -227,6 +322,52 @@ Understanding how sound files are played
 
 \begin_layout Subsubsection
 Applications for wavetable synthesis
+\end_layout
+
+\begin_layout Section
+Third Day
+\end_layout
+
+\begin_layout Subsection
+Step back?
+ More theory behind Python?
+\end_layout
+
+\begin_layout Subsection
+More about Pd?
+\end_layout
+
+\begin_layout Subsection
+Add joystick to control sound (2 data variables)
+\end_layout
+
+\begin_layout Section
+Fourth Day
+\end_layout
+
+\begin_layout Subsection
+Building capacitative touch project
+\end_layout
+
+\begin_layout Standard
+We will work together on this instead of individually.
+\end_layout
+
+\begin_layout Section
+Fifth Day
+\end_layout
+
+\begin_layout Subsection
+Working with light?
+ Theories
+\end_layout
+
+\begin_layout Subsection
+Using Neopixels
+\end_layout
+
+\begin_layout Subsection
+Final performance by outside guest
 \end_layout
 
 \end_body
