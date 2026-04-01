@@ -112,6 +112,80 @@ Paul Miller and Michael McMaster
 The soundLab program is...
 \end_layout
 
+\begin_layout Abstract
+This document provides a method for guided exploration...assume competence,
+ invite observation,
+ encourage agency.
+\end_layout
+
+\begin_layout Abstract
+ACTION -> OBSERVATION -> EXTENSION
+\end_layout
+
+\begin_layout Abstract
+Avoid:
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Now we will
+\begin_inset Quotes erd
+\end_inset
+
+,
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It is important to understand...
+\begin_inset Quotes erd
+\end_inset
+
+,
+ 
+\begin_inset Quotes eld
+\end_inset
+
+As you can see...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Abstract
+Prefer:
+ 
+\begin_inset Quotes eld
+\end_inset
+
+At this point,
+ you can...
+\begin_inset Quotes erd
+\end_inset
+
+,
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You might notice...
+\begin_inset Quotes erd
+\end_inset
+
+,
+ 
+\begin_inset Quotes eld
+\end_inset
+
+If you are curious,
+ try this...
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 First Day 
 \end_layout
@@ -174,7 +248,8 @@ Read button state
 \end_layout
 
 \begin_layout Standard
-The objective is simple to print a 1 in the REPL if a button is pressed.
+The objective is simple:
+ to print a 1 in the REPL if a button is pressed.
 \end_layout
 
 \begin_layout Subsubsection
